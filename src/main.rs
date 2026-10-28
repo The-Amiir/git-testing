@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, class!");
+    println!("Hello, class of Rust AP!");
 }
